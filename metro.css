@@ -29,20 +29,15 @@ margin-top: -30px;
  .icon svg {
    margin-top: 63px;
    margin-left:270px ;
-
  }
-
  .icon2 svg {
    margin-top: 63px;
    margin-left:230px ;
-
  }
-
  .icon3 svg {
    margin-top: 63px;
    margin-left:310px ;
  }
-
  .icon2 svg:hover{
    color: white;
 }
